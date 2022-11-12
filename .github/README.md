@@ -41,14 +41,14 @@
 <p>
 <details>
 <summary><h3><strong>Credits💕</strong></h3></summary>
-<strong>All credit Goes To</strong>&nbsp;<code>𝐀𝐀𝐃𝐈𝐋 𝐒𝐇𝐈𝐄𝐊𝐇 𓆩💗𓆪</code><br>
-<code>Telegram:- <a href="https://t.me/aadillllll">ＹＯUＲ ＣＲUＳＨ،"(💛</a></code><br>
+<strong>All credit Goes To</strong>&nbsp;<code>𝙋𝙐𝙉𝙅𝘼𝘽𝙄 𓆩💗𓆪</code><br>
+<code>Telegram:- <a href="https://t.me/jatt_here1">𝙋𝙐𝙉𝙅𝘼𝘽𝙄،"(💛</a></code><br>
 <code>Github:- <a href="https://github.com/Darkranger00">Darkraner00</a></code><br>
 </details>
 </p>
 
 <p><h3><strong>Support 🇮🇳</strong></h3>
-<a href="https://t.me/crushbot_support"><img src="https://img.shields.io/badge/Support%20%20Group-black?style=for-the-badge&logo=telegram"></a>
+<a href="https://t.me/banallsupport"><img src="https://img.shields.io/badge/Support%20%20Group-black?style=for-the-badge&logo=telegram"></a>
 </p>
 
 <p><h3><strong>Contributors 👩‍💻</strong></h3>
